@@ -1,6 +1,3 @@
-﻿// Hermetyzacja.cpp : Ten plik zawiera funkcję „main”. W nim rozpoczyna się i kończy wykonywanie programu.
-//
-
 #include <iostream>
 #include <cctype>
 using namespace std;
